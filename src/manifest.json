@@ -15,6 +15,14 @@
     "export",
     "note links"
   ],
+  "homepage_url": "https://github.com/tjcomserv/JoplinNoteTransclusion",
+  "repository_url": "https://github.com/tjcomserv/JoplinNoteTransclusion",
+  "screenshots": [
+    {
+      "src": "assets/jnt-screenshot.png",
+      "label": "FastBat Note Transclusion in use"
+    }
+  ],
   "categories": [
     "files",
     "personal knowledge management",
