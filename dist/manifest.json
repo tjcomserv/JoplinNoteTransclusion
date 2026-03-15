@@ -9,6 +9,17 @@
   ],
   "description": "FastBat plugin for exporting the current note to PDF after replacing ampersand-prefixed Joplin note links with the full body of the linked notes.",
   "author": "FastBat",
-  "homepage_url": "",
-  "repository_url": ""
+  "keywords": [
+    "pdf",
+    "transclusion",
+    "export",
+    "note links"
+  ],
+  "homepage_url": "https://gitea.tjcom.uk/TJ/JoplinNoteTransclusion",
+  "repository_url": "https://gitea.tjcom.uk/TJ/JoplinNoteTransclusion",
+  "categories": [
+    "files",
+    "personal knowledge management",
+    "productivity"
+  ]
 }

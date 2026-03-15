@@ -2,6 +2,14 @@
   "name": "fastbat-note-transclusion",
   "version": "0.1.0",
   "description": "FastBat Joplin plugin to export notes to PDF with ampersand-prefixed note transclusions expanded.",
+  "homepage": "https://gitea.tjcom.uk/TJ/JoplinNoteTransclusion",
+  "repository": {
+    "type": "git",
+    "url": "https://gitea.tjcom.uk/TJ/JoplinNoteTransclusion.git"
+  },
+  "bugs": {
+    "url": "https://gitea.tjcom.uk/TJ/JoplinNoteTransclusion/issues"
+  },
   "scripts": {
     "check": "node --check src/index.js",
     "dist": "node tools/build.js",
@@ -9,10 +17,13 @@
     "smoke": "node tools/smoke-test.js"
   },
   "keywords": [
+    "joplin-plugin",
     "joplin",
     "plugin",
     "pdf",
-    "transclusion"
+    "transclusion",
+    "export",
+    "note-links"
   ],
   "author": "FastBat",
   "license": "MIT"
