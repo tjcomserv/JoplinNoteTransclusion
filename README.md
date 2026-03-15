@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/fastbat-logo.svg" alt="FastBat logo" width="320">
+  <img src="assets/FastBat_Logo_batOnly.png" alt="FastBat logo" width="320">
 </p>
 
 # FastBat Note Transclusion
