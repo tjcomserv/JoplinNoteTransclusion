@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 240" role="img" aria-labelledby="title desc">
+  <title id="title">FastBat logo</title>
+  <desc id="desc">A black bat silhouette with wide angular wings and white eyes.</desc>
+  <g fill="#000000">
+    <polygon points="0,10 76,42 46,84 92,92 40,126 118,152 228,118 254,178 220,178 200,222 286,222 320,186 354,222 440,222 420,178 386,178 412,118 522,152 600,126 548,92 594,84 564,42 640,10 590,68 604,122 530,110 460,86 418,48 418,114 360,160 280,160 222,114 222,48 180,86 110,110 36,122 50,68"/>
+    <polygon points="252,48 286,92 286,52 320,24 354,52 354,92 388,48 414,86 414,172 360,206 280,206 226,172 226,86"/>
+  </g>
+  <g fill="#ffffff">
+    <polygon points="274,126 296,116 314,126 292,138"/>
+    <polygon points="366,126 344,116 326,126 348,138"/>
+  </g>
+</svg>

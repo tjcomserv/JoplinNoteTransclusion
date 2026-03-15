@@ -1,0 +1,19 @@
+{
+  "name": "fastbat-note-transclusion",
+  "version": "0.1.0",
+  "description": "FastBat Joplin plugin to export notes to PDF with ampersand-prefixed note transclusions expanded.",
+  "scripts": {
+    "check": "node --check src/index.js",
+    "dist": "node tools/build.js",
+    "package": "node tools/package.js",
+    "smoke": "node tools/smoke-test.js"
+  },
+  "keywords": [
+    "joplin",
+    "plugin",
+    "pdf",
+    "transclusion"
+  ],
+  "author": "FastBat",
+  "license": "MIT"
+}
