@@ -2,7 +2,7 @@
   "id": "com.fastbat.NoteTransclusion",
   "manifest_version": 1,
   "name": "FastBat Note Transclusion",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "app_min_version": "2.14",
   "platforms": [
     "desktop"
