@@ -17,6 +17,12 @@
   ],
   "homepage_url": "https://gitea.tjcom.uk/TJ/JoplinNoteTransclusion",
   "repository_url": "https://gitea.tjcom.uk/TJ/JoplinNoteTransclusion",
+  "screenshots": [
+    {
+      "src": "https://gitea.tjcom.uk/TJ/JoplinNoteTransclusion/raw/branch/main/assets/jnt-screenshot.png",
+      "label": "FastBat Note Transclusion settings and commands"
+    }
+  ],
   "categories": [
     "files",
     "personal knowledge management",
